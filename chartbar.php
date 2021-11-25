@@ -129,7 +129,7 @@ while($row = mysqli_fetch_array($bandha)){
 
 <footer class="fixed-bottom bg-light">
             <center>
-            <p>&copy; Elsa Indah Suci Paralel A 2021 <br>
+            <p>&copy; Kelompok 6 <br>
         Website Bandha <br>
         Pemrograman Website
            </p>
